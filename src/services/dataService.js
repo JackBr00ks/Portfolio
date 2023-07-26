@@ -9,7 +9,12 @@ export default class DataService {
         icon: 'info_bubble',
         content: {
           paragraphs: [
-            'about me ..'
+            'Hi!',
+            
+            'As a passionate and motivated software engineer, I have experience building innovative programs and providing customer solutions.',
+            'With a background in one of the UKs leading software consultancies in National Security, I have a strong understanding of the importance of delivering secure and reliable solutions.',
+            'Recently, I transitioned from an Application Engineer and completed an intensive software training course, allowing me to expand my skills and knowledge. I am now seeking a new challenge in a cutting-edge technology company where',
+            'I can continue to progress my career and develop my skills further. I am excited to bring my experience and drive to a new team and work on the next generation of technology solutions.',
           ],
         },
       },
@@ -25,17 +30,44 @@ export default class DataService {
               jobTitle: 'Software Developer',
               company: 'Roke',
               location: 'Woking',
-              period: 'July 2022 – PRESENT',
+              period: 'June 2022 – PRESENT',
               accomplishments: [
-                'description',
+                'Excelled in the Roke Academy which is an intensive 6-month training course with the first half focused on learning Python, Javascript and Java. The second half built on this by working in teams to complete a series of innovative projects following Agile methodologies.',
+                '- Produced a script that collected TFL camera data. (Python)',
+                '- Completed a group task to scrape global brewery data from an API and visualise this information. (Python, Javascript, Elastic, Sensorium)',
+                '- Worked as part of a sub team to implement a secure log in system using AWS. This includes reading YAML files, creating EC2 instances and S3 buckets.',
+                'Post training I am working as a Front End Developer on a National Security project, where I am responsible for developing and implementing new features using React, and ensuring website functionality through testing with Cypress. Working as part of a small team, I have been assigned individual tasks and contributed to the projects success by creating a seamless user experience and optimizing website performance.',
+
+                'Skills: Agile/Scrum, Python, Javascript, React, Java, Cypress Linux, GitLab, AWS, Docker',
               ],
             },
             {
-              jobTitle: 'Software Developer',
+              jobTitle: 'Web Developer',
               company: 'Freelance',
-              period: ' 2017 – PRESENT',
+              period: 'JULY 2022 – PRESENT',
               accomplishments: [
-                'Description',
+                'Designed, created and maintain a user-friendly website for a small business. This involves making any changes to the style and content of the site as well as ensuring it remains secure and online. Created with consistent page formatting and functionality in mind.',
+              
+                'Skills: Wordpress, Javascript, HTML CSS',
+              ],
+            },
+
+            {
+              jobTitle: 'Lead Application Engineer',
+              company: 'AFL Global',
+              location: 'Woking',
+              period: 'SEPT 2020 - JUNE 2022',
+              accomplishments: [
+                'Technical role providing support and solutions towards the sale of fibre optic cable and accessories for new and existing customers. Solely responsible for the technical support of AFLs overhead cable product range.',
+                '- Responding to technical specifications for the design of fibre optic cables, accessories and full product solutions.',
+                '- Product management of cable range.',
+                '- Software development.',
+                '- Provision of cost estimates.',
+                '- Analysing and calculating cable performance.',
+                '- Loading products onto the Oracle database.',
+                '- Support the day to day operation of the department.',
+
+                'Skills: Product Management, Leadership, Oracle Database, Report Writing, Technical Support, VBA, Microsoft Excel, Presentation Skills.',
               ],
             },
           ],
@@ -45,6 +77,12 @@ export default class DataService {
               University: 'Cardiff University',
               Achieved: '2:1',
               period: 'SEPT 2015 – JULY 2019',
+            },
+            {
+              Course: 'Engineering Foundation Course ',
+              University: 'Coventry University College',
+              Achieved: 'First',
+              period: 'SEPT 2014 – MAY 2015',
             },
           ],
         },
@@ -74,14 +112,30 @@ export default class DataService {
           hard: [
             {
               name: 'React/Redux',
-              progress: 90,
+              progress: 100,
             },
             {
-              name: 'AWS/Azure',
+              name: 'Cypress',
+              progress: 100,
+            },
+            {
+              name: 'AWS',
+              progress: 80,
+            },
+            {
+              name: 'GitLab CI/CD',
               progress: 70,
             },
+            {
+              name: 'Python',
+              progress: 50,
+            },
+            {
+              name: 'Java',
+              progress: 20,
+            },
           ],
-          soft: 'Analytical thinking, Teamwork, Creative Problem solving, Mangement, Leadership, Entrepreneurship',
+          soft: 'Analytical Thinking, Teamwork, Creative Problem Solving, Management, Leadership, Organisation, Communication and Presentation Skills',
         },
       },
       {
@@ -92,15 +146,15 @@ export default class DataService {
           emailText:
             'If you want to hire me or invite to a project, just email me on ',
           email: 'jack.brooks@live.com',
-          socialText: 'Or you can reach me out through social media:',
+          socialText: 'Or you can reach me out through socials:',
           social: [
             {
               name: 'FaLinkedin',
-              link: 'https://www.linkedin.com/in/',
+              link: 'https://www.linkedin.com/in/JackBr00ks',
             },
             {
               name: 'FaGithub',
-              link: 'https://github.com/',
+              link: 'https://github.com/JackBr00ks',
             },
           ],
         },
