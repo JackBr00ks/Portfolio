@@ -31,11 +31,11 @@ function Resume({ content }) {
       {education.map((ed, idx) => (
         <div key={idx}>
           <p>
-            <b>{ed.credit}</b>
+            <b>{ed.Degree}</b>
           </p>
-          <p>{ed.place}</p>
+          <p>{ed.University}</p>
           <p>
-            <b>{ed.gpa}</b>
+            <b>{ed.Achieved}</b>
           </p>
           <p>{ed.period}</p>
           <br />

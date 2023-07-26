@@ -24,7 +24,8 @@ function Shortcuts({ openExplorer }) {
       <StyledShorcut>
       <img
           className="pointer"
-          src={`${process.env.PUBLIC_URL}/@react95/icons/MediaCd_32x32_4.png`}
+          src={`${process.env.PUBLIC_URL}/MediaCd_32x32_4.png`}
+          alt="media"
           onClick={() => startWebamp()}
         />
         <div>Media</div>

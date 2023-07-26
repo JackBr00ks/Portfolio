@@ -24,7 +24,7 @@ export default class DataService {
         icon: 'notepad_2',
         content: {
           resumeLink:
-            'https://docs.google.com/document/d/1c_fPwOf4zo-vkSWJiCkSyiH2SZECb6JSeOSmgniaeQY/export?format=pdf',
+            'https://drive.google.com/file/d/1QdJaysemTip386ntumUACssCYz_5cpnm/view?usp=sharing',
           workExperience: [
             {
               jobTitle: 'Software Developer',
@@ -37,7 +37,7 @@ export default class DataService {
                 '- Completed a group task to scrape global brewery data from an API and visualise this information. (Python, Javascript, Elastic, Sensorium)',
                 '- Worked as part of a sub team to implement a secure log in system using AWS. This includes reading YAML files, creating EC2 instances and S3 buckets.',
                 'Post training I am working as a Front End Developer on a National Security project, where I am responsible for developing and implementing new features using React, and ensuring website functionality through testing with Cypress. Working as part of a small team, I have been assigned individual tasks and contributed to the projects success by creating a seamless user experience and optimizing website performance.',
-
+                
                 'Skills: Agile/Scrum, Python, Javascript, React, Java, Cypress Linux, GitLab, AWS, Docker',
               ],
             },
@@ -47,7 +47,7 @@ export default class DataService {
               period: 'JULY 2022 – PRESENT',
               accomplishments: [
                 'Designed, created and maintain a user-friendly website for a small business. This involves making any changes to the style and content of the site as well as ensuring it remains secure and online. Created with consistent page formatting and functionality in mind.',
-              
+                
                 'Skills: Wordpress, Javascript, HTML CSS',
               ],
             },
@@ -66,7 +66,7 @@ export default class DataService {
                 '- Analysing and calculating cable performance.',
                 '- Loading products onto the Oracle database.',
                 '- Support the day to day operation of the department.',
-
+                
                 'Skills: Product Management, Leadership, Oracle Database, Report Writing, Technical Support, VBA, Microsoft Excel, Presentation Skills.',
               ],
             },
@@ -79,7 +79,7 @@ export default class DataService {
               period: 'SEPT 2015 – JULY 2019',
             },
             {
-              Course: 'Engineering Foundation Course ',
+              Degree: 'Engineering Foundation Course ',
               University: 'Coventry University College',
               Achieved: 'First',
               period: 'SEPT 2014 – MAY 2015',
