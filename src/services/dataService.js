@@ -119,7 +119,7 @@ export default class DataService {
         content: {
           hard: [
             {
-              name: 'React/Redux',
+              name: 'React.js',
               progress: 100,
             },
             {
@@ -128,14 +128,22 @@ export default class DataService {
             },
             {
               name: 'AWS',
-              progress: 80,
+              progress: 85,
             },
             {
               name: 'GitLab CI/CD',
+              progress: 75,
+            },
+            {
+              name: 'Adobe Suite',
               progress: 70,
             },
             {
               name: 'Python',
+              progress: 50,
+            },
+            {
+              name: 'Blender',
               progress: 50,
             },
             {
