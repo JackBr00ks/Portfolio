@@ -94,12 +94,20 @@ export default class DataService {
         content: {
           projects: [
             {
-              title: '',
+              title: 'Website for Small Business',
               description:
-                '',
+                'Designed, created and maintain a user-friendly website for a small business. This involves making any changes to the style and content of the site as well as ensuring it remains secure and online. Created with consistent page formatting and functionality in mind.',
               techStack:
-                '',
-              url: '',
+                'Wordpress, Javascript, HTML CSS',
+              url: 'www.thenurseryoxford.co.uk',
+            },
+            {
+              title: 'Weather App',
+              description:
+                'This project is a weather application built using React.js. It provides real-time weather information based on the users current geolocation. The app fetches weather data from a weather API and displays the current weather details, including temperature, humidity, sunrise, and sunset time. Additionally, it also provides a five-day weather forecast for the users location.',
+              techStack:
+                'React.js, HTML CSS, API Integration, Styled Components',
+              url: 'https://github.com/JackBr00ks/sidequests/tree/my-weather-app',
             },
           ],
         },
