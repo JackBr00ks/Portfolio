@@ -1,5 +1,5 @@
 # Portfolio
-My portfolio website in old-school Windows95 style (https://jackbrooks.com/)
+My portfolio website in old-school Windows95 style (https://main.d3axta1jex9kt.amplifyapp.com/) 
 
 ## Credits
 * Website was built with [React](https://github.com/facebook/react)

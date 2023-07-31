@@ -1,6 +1,6 @@
 export default class DataService {
   _data = {
-    projectRepo: 'https://github.com/JackBrooks/portfolio',
+    projectRepo: 'https://github.com/JackBr00ks/Portfolio',
     react95Repo: 'https://github.com/React95/React95',
     items: [
       {
