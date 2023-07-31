@@ -5,7 +5,6 @@ import ContentFactory from './NotepadContent/ContentFactory';
 function Notepad({ closeNotepad, selectedItem, isMobile }) {
     return (
         <Modal
-            icon="notepad"
             title={`Notepad - ${selectedItem.name}`}
             closeModal={closeNotepad}
             buttons={[{ value: "Close", onClick: closeNotepad }]}

@@ -9,7 +9,7 @@ export default class DataService {
         icon: 'info_bubble',
         content: {
           paragraphs: [
-            'Hi!',
+            'Hi! Im Jack...',
             
             'As a passionate and motivated software engineer, I have experience building innovative programs and providing customer solutions.',
             'With a background in one of the UKs leading software consultancies in National Security, I have a strong understanding of the importance of delivering secure and reliable solutions.',
