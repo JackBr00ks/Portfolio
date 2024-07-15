@@ -6,6 +6,11 @@ const StyledLink = styled.a`
   margin-bottom: 10px;
 `;
 
+const NoBulletList = styled.ul`
+  list-style: none;
+  padding-left: 0;
+`;
+
 function Resume({ content }) {
   const { workExperience, education, resumeLink } = content;
 
@@ -18,11 +23,11 @@ function Resume({ content }) {
             <b>{exp.jobTitle}</b> | {exp.company} | {exp.location}
           </p>
           <p>{exp.period}</p>
-          <ul>
+          <NoBulletList>
             {exp.accomplishments.map((a, idx) => (
               <li key={idx}>{a}</li>
             ))}
-          </ul>
+          </NoBulletList>
           <br />
         </div>
       ))}
