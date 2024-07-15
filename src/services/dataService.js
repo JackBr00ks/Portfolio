@@ -32,12 +32,15 @@ export default class DataService {
               period: 'June 2022 – PRESENT',
               accomplishments: [
                 'Excelled in the Roke Academy, an intensive 6-month training course with the first half focused on learning Python and Javascript. Post-training, I have been working predominantly as a Front End Developer on various high-impact National Security projects. My responsibilities include developing and implementing new features using React and Vue, ensuring optimal website functionality.',
+                '',
                 'Client Projects: Engaged in multiple client projects within the National Security sector, leveraging React and Vue to create user interfaces.',
                 'Team Collaboration: Contributed to a team effort in building a UI that integrates live third-party data, enabling dynamic data mapping and filtering.',
                 'Independent Projects: Independently developed a research-based search engine from scratch using Vue.',
                 'Current Project: Currently focused on developing a UI for a next-gen decompiler. Successfully ran a demo for senior members of the company and important stakeholders.',
                 'AWS Certification: Actively pursuing the AWS Solutions Architect certification in my own time.',
                 'Technical Achievements: Championed the creation of a GitLab CI/CD pipeline, significantly enhancing project efficiency by streamlining the deployment process.',
+                '',
+                'Skills: Agile/Scrum,  React, Vue, Python, Javascript, Cypress, Linux, GitLab CI/CD, AWS'
               ],
               skills: [
                 'Agile/Scrum', 
