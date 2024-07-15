@@ -24,7 +24,7 @@ export default class DataService {
         icon: 'notepad_2',
         content: {
           resumeLink:
-            'https://drive.google.com/file/d/1QdJaysemTip386ntumUACssCYz_5cpnm/view?usp=sharing',
+            'https://drive.google.com/file/d/1w6RWvsJexfwLoiJDnaCQSO5y4IlEJILs/view?usp=sharing',
           workExperience: [
             {
               jobTitle: 'Software Developer',
@@ -32,13 +32,24 @@ export default class DataService {
               location: 'Woking',
               period: 'June 2022 – PRESENT',
               accomplishments: [
-                'Excelled in the Roke Academy which is an intensive 6-month training course with the first half focused on learning Python, Javascript and Java. The second half built on this by working in teams to complete a series of innovative projects following Agile methodologies.',
-                '- Produced a script that collected TFL camera data. (Python)',
-                '- Completed a group task to scrape global brewery data from an API and visualise this information. (Python, Javascript, Elastic, Sensorium)',
-                '- Worked as part of a sub team to implement a secure log in system using AWS. This includes reading YAML files, creating EC2 instances and S3 buckets.',
-                'Post training I am working as a Front End Developer on a National Security project, where I am responsible for developing and implementing new features using React, and ensuring website functionality through testing with Cypress. Working as part of a small team, I have been assigned individual tasks and contributed to the projects success by creating a seamless user experience and optimizing website performance.',
-                
-                'Skills: Agile/Scrum, Python, Javascript, React, Java, Cypress Linux, GitLab, AWS, Docker',
+                'Excelled in the Roke Academy, an intensive 6-month training course with the first half focused on learning Python and Javascript. Post-training, I have been working predominantly as a Front End Developer on various high-impact National Security projects. My responsibilities include developing and implementing new features using React and Vue, ensuring optimal website functionality.',
+                'Client Projects: Engaged in multiple client projects within the National Security sector, leveraging React and Vue to create user interfaces.',
+                'Team Collaboration: Contributed to a team effort in building a UI that integrates live third-party data, enabling dynamic data mapping and filtering.',
+                'Independent Projects: Independently developed a research-based search engine from scratch using Vue.',
+                'Current Project: Currently focused on developing a UI for a next-gen decompiler. Successfully ran a demo for senior members of the company and important stakeholders.',
+                'AWS Certification: Actively pursuing the AWS Solutions Architect certification in my own time.',
+                'Technical Achievements: Championed the creation of a GitLab CI/CD pipeline, significantly enhancing project efficiency by streamlining the deployment process.',
+              ],
+              skills: [
+                'Agile/Scrum', 
+                'React', 
+                'Vue', 
+                'Python', 
+                'Javascript', 
+                'Cypress', 
+                'Linux', 
+                'GitLab CI/CD', 
+                'AWS'
               ],
             },
             {
@@ -123,12 +134,28 @@ export default class DataService {
               progress: 100,
             },
             {
+              name: 'Vue.js',
+              progress: 100,
+            },
+            {
               name: 'Cypress',
+              progress: 100,
+            },
+            {
+              name: 'Microsoft Office',
               progress: 100,
             },
             {
               name: 'AWS',
               progress: 85,
+            },
+            {
+              name: 'Postman',
+              progress: 85,
+            },
+            {
+              name: 'Python',
+              progress: 75,
             },
             {
               name: 'GitLab CI/CD',
@@ -137,10 +164,6 @@ export default class DataService {
             {
               name: 'Adobe Suite',
               progress: 70,
-            },
-            {
-              name: 'Python',
-              progress: 50,
             },
             {
               name: 'Blender',
