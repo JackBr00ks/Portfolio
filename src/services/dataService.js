@@ -13,8 +13,7 @@ export default class DataService {
             
             'As a passionate and motivated software engineer, I have experience building innovative programs and providing customer solutions.',
             'With a background in one of the UKs leading software consultancies in National Security, I have a strong understanding of the importance of delivering secure and reliable solutions.',
-            'Recently, I transitioned from an Application Engineer and completed an intensive software training course, allowing me to expand my skills and knowledge. I am now seeking a new challenge in a cutting-edge technology company where',
-            'I can continue to progress my career and develop my skills further. I am excited to bring my experience and drive to a new team and work on the next generation of technology solutions.',
+            'A couple years ago, I transitioned from being an Application Engineer by completing an intensive software training course, allowing me to expand my skills and knowledge. I am now seeking a new challenge in a cutting-edge technology company where I can continue to progress my career and develop my skills further. I am excited to bring my experience and drive to a new team and work on the next generation of technology solutions.',
           ],
         },
       },
